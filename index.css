@@ -1,0 +1,15 @@
+.bg-container{
+    height: 100vh;
+    background-color: lightblue;
+}
+
+.image{
+    width: 100vw;
+    background-size: cover;
+}
+.heading{
+    font-size: 60px;
+}
+.font-details{
+    font-size: 30px;
+}
